@@ -1,2 +1,2 @@
-# ReactNative-E-Leave
-使用ReactNative创建一个E-Leave休假系统
+# ReactNative-Leave
+使用ReactNative创建一个小企业休假系统
